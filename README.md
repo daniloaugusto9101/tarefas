@@ -13,7 +13,6 @@ Lista de tarefas
    * [Exemplo do site](#Exemplo-do-site-em-funcionamento)
    * [Tecnologias](#Tecnologias-Utilizadas)
    * [Autor](#autor)
-
 <!--te-->
 
 
@@ -30,7 +29,7 @@ Lista de tarefas
 <div>
 
 <a href="https://daniloaugusto9101.github.io/tarefas/" title="Danilo" target="_blank">
-<p>Site demo clique aqui</p>
+<p>Site em funcionamento, clique aqui</p>
 <img src="site.gif" width="800px"></a>
 <!-- <video width="800px" controls>
   <source src="site.mp4" type="video/mp4">
